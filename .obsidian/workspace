@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f0702eb9a056be18",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a56118a97abf6f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "jupyter notebook.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbc9ae5d1b800e7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de4eace7d0d49af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ff83eb6be7579f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b170ee485f9c6182",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.00868225097656,
+    "collapsed": true
+  },
+  "right": {
+    "id": "109df052363a604c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04d1a6801688ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280bc4d771e4e514",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jupyter notebook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.34201049804688
+  },
+  "active": "3a56118a97abf6f9",
+  "lastOpenFiles": [
+    "jupyter notebook.md",
+    "precision.md",
+    "метрики data science.md",
+    "статистика.md",
+    "data science.md",
+    "ROC AUC.md",
+    "recall.md",
+    "k-means.md",
+    "Спектральная кластеризация.md",
+    "Алгоритмы кластеризации.md"
+  ]
+}
